@@ -1,1 +1,1 @@
-Ich schreib hier was anderes rein.
+Ich habe dieses Skript geändert und die commits gepusht, bevor Michael seine commits gepusht hat.
